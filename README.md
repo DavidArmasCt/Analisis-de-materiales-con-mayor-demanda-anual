@@ -5,7 +5,8 @@ Análisis de materiales con mayor demanda por periodo anual para generar estrate
 <p>Tecnologías utilizadas:
   <ul>
     <li>Power BI</li>
-    <li>Access</li>
+    <li>Microsoft Access</li>
+    <li>SQL</li>
   </ul>
 </p>
 <p>La estructura de este proyecto se define de la siguiente manera:
@@ -13,5 +14,6 @@ Análisis de materiales con mayor demanda por periodo anual para generar estrate
     <li>Presentación (Inluye el PDF del proyecto completo</li>
     <li>Dataset (Datos previamente anonimizados)</li>
     <li>Power BI (Archivo pbix)</li>
+    <li>Scripts (Querys SQL)</li>
   </ul>
 </p>
